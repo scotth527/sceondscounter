@@ -1,1 +1,1 @@
-  [Seconds timer](https://www.hippovideo.io/video/play/rCkhv-pyci0-3XQIwSs-Ew)
+  [Seconds timer](https://hippolms-storage.s3-accelerate.amazonaws.com/wiz/gifs/311529/5609.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJXRM4YAH2A46K76A%2F20181217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20181217T165244Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=b525f845718fc30de02faf78bac3eb764b6e1ebae8253a0d353055f98893e9c2)
