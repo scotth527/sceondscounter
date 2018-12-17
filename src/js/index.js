@@ -43,10 +43,10 @@ setInterval(()=> {
 
     counter++;
     ReactDOM.render(
-        <SecondsCounter digitOne={one} digitTwo={two} digitThree={three} digitFour={four} 
-     digitFive={five} digitSix={six}/>,
-    document.querySelector('#app')
-);
+        <SecondsCounter digitOne={one} digitTwo={two} digitThree={three} 
+        digitFour={four} digitFive={five} digitSix={six}/>,
+        document.querySelector('#app')
+    );
 }, 1000); 
 
 
