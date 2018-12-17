@@ -10,7 +10,7 @@ import  'bootstrap';
 import '../styles/index.scss';
 
 function SecondsCounter (props) {
-    return ( <div className="container">
+    return ( <div className="container mt-5">
         <div className="row" >
             <div className="col-1" ><i className="far fa-clock"></i></div>
             <div className="col-1">{props.digitSix % 10}</div>
